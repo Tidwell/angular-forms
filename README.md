@@ -3,6 +3,10 @@ angularfrmtst
 
 testing angular form stuff
 
+---
+
+working redactor markdown editor (some bugs) - see public/frms/app/scrips/directives/redactor
+
 Requires
   * Node / NPM
   * Yeoman
@@ -29,3 +33,4 @@ View:
   ```
     node app --env=prod //run with the config from ./app/config/prod.js
   ```
+
